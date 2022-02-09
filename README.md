@@ -36,7 +36,7 @@ Buiding the clone of practo.in using HTML CSS and Javascript. Major pages includ
 </ul>
 <h3> Team Members </h3>
 <ul>
-  <li>karunes ranjan</li>
+  <li>Karunes Ranjan</li>
   <li>Pankaj Kumar</li>
  <li>Abhishek Jha</>
    <li>Kajal Kumari</>
