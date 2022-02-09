@@ -1,4 +1,4 @@
-# constructweek_practo_clone
+# practo_clone
 Buiding the clone of practo.in using HTML CSS and Javascript. Major pages include home page, Medicines page ,Find doctors, Video Consult page
 ## How to run the website?
 <ul>
